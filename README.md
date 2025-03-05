@@ -1,2 +1,2 @@
-# api-ventaspos
-api- sistema de ventas
+# api-ventapos
+ api para punto de venta
